@@ -1,0 +1,51 @@
+WEEK 5 Live session.
+
+
+1 Talking about hurricane, you and Nadjya. lol
+2 How everyone had trouble with join statement .
+3 Need script file to help us .
+4 Mrs Jackson got all correct.
+5 Going over how to use join statements and following are intructions.
+6 About the RAND()
+7 GOING OVER WEEK 5 AND WEEK 6
+8 WATCH VIDEO ON Set Operations.
+9 Went over Bob Ross assignment.
+10 I agree Join is so not Easy.
+11 Went over slack engagement .
+12 SQL Zoo he has accient and use sub titltes.(MAX VOLUME)
+13 DESCRIBE ONE ASPECT OF TRANSACTION MEANS TO ME.15 POINTS WEEK 5 SLACK
+
+WEEK 6
+SLACK (MySQL)
+14 Take quiz at link.
+15 Share score and how to solve if you had 2nd chance.
+16 Pick topic w3schools.
+
+WHITE CHRISTMAS
+17 Watch 2 videos and do 5 queries in work file.
+
+Full Stack SQL( LOOK AT PAST COURSES)
+
+Storing data.Executing querries on back end.
+
+Screen cast video when running querry.
+ 
+Week 7 add front end for capstone. (brings frontend and backend together)
+
+Use frontend application from the past.
+
+show us code for week 6 Wow blowing my mind lol.
+
+Create a hand shake then capturing errors.
+
+local port 3000using app.listen
+
+WOW Created a datbase using visual studio
+
+Then showed how to create a new table.
+
+How select querry runs successfully.
+
+Went over Update query.
+
+Then we went over delete also.
