@@ -8,7 +8,7 @@ const db = mysql.createConnection(
     user: 'root',
     password: '',
     //connect to default database
-    database: '09Sept2021'
+    database: '09Sep2021'
 });
 
 //capture errors, if any
@@ -30,7 +30,7 @@ app.get('/createDB',(req, res) => {
             throw err;
         }
         console.log(result);
-        res.send("09Sept2021 Database created successfully"); 
+        res.send("09Sep2021 Database created successfully"); 
     });
 });
 
